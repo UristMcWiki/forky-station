@@ -100,7 +100,7 @@
   components:
   - type: Store
     balance:
-      Telecrystal: 25
+      Telecrystal: 125 #Funky rework to make it 100 tc base
 
 #this uplink MUST be used for nukeops, as it has the tag for filtering the listing.
 - type: entity
